@@ -309,7 +309,6 @@ landscape:
             homepage_url: 'http://port.us.org/'
             repo_url: 'https://github.com/SUSE/Portus'
             logo: ./hosted_logos/portus.svg
-            twotter: 'https://twitter.com/SUSE'
             crunchbase: 'https://www.crunchbase.com/organization/suse'
           - item:
             name: Project Atomic
@@ -1997,12 +1996,8 @@ landscape:
           - item:
             name: SUSE CaaS Platform
             description: >-
-              SUSE CaaS Platform is a complete, open source, and
-              enterprise-grade container orchestration platform that
-              delivers Kubernetes, the SUSE MicroOS container host
-              operating system, and related technologies as a fully
-              integrated and supported solution that is easy to
-              install and run.
+              SUSE CaaS Platform is a complete, open source, and enterprise-grade container orchestration platform that delivers Kubernetes, the SUSE MicroOS
+              container host operating system, and related technologies as a fully integrated and supported solution that is easy to install and run.
             homepage_url: 'https://www.suse.com/products/caas-platform'
             logo: 'https://www.suse.com/assets/img/suse_logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/suse'

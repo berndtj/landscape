@@ -2658,7 +2658,6 @@
     "homepage_url": "http://port.us.org/",
     "repo_url": "https://github.com/SUSE/Portus",
     "logo": "./hosted_logos/portus.svg",
-    "twotter": "https://twitter.com/SUSE",
     "crunchbase": "https://www.crunchbase.com/organization/suse",
     "github_data": {
       "stars": 1752,
